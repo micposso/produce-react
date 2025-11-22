@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Organic Tomatoes",
+    "category": "Fruit Vegetable",
+    "price": 3.99,
+    "description": "Fresh, juicy organic tomatoes grown locally. Perfect for salads, sauces, and sandwiches. Packed with vitamins and antioxidants.",
+    "image": "https://student-michael-posso-bucket.s3.us-east-2.amazonaws.com/organic-tomatoes.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Fresh Carrots",
+    "category": "Root Vegetable",
+    "price": 2.49,
+    "description": "Crisp and sweet carrots, rich in beta-carotene. Great for snacking, roasting, or adding to soups and stews.",
+    "image": "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=400"
+  },
+  {
+    "id": 3,
+    "name": "Potatoes",
+    "category": "Root Vegetable",
+    "price": 3.29,
+    "description": "Versatile and hearty potatoes, perfect for baking, mashing, or roasting. A staple ingredient for countless dishes.",
+    "image": "https://images.unsplash.com/photo-1518977676601-b53f82aba655?w=400"
+  },
+  {
+    "id": 4,
+    "name": "Green Broccoli",
+    "category": "Flower Vegetable",
+    "price": 4.29,
+    "description": "Nutrient-dense broccoli florets, packed with vitamins C and K. Excellent steamed, roasted, or stir-fried.",
+    "image": "https://images.unsplash.com/photo-1459411552884-841db9b3cc2a?w=400"
+  },
+  {
+    "id": 5,
+    "name": "Bell Peppers Mix",
+    "category": "Fruit Vegetable",
+    "price": 5.99,
+    "description": "Colorful mix of red, yellow, and green bell peppers. Sweet and crunchy, perfect for grilling or adding to any dish.",
+    "image": "https://images.unsplash.com/photo-1563565375-f3fdfdbefa83?w=400"
+  },
+  {
+    "id": 6,
+    "name": "Leafy Spinach",
+    "category": "Leafy Vegetable",
+    "price": 3.49,
+    "description": "Fresh organic spinach leaves, iron-rich and versatile. Ideal for salads, smoothies, or sautéing as a side dish.",
+    "image": "https://images.unsplash.com/photo-1576045057995-568f588f82fb?w=400"
+  },
+  {
+    "id": 7,
+    "name": "Red Onions",
+    "category": "Bulb Vegetable",
+    "price": 1.99,
+    "description": "Sharp and flavorful red onions, essential for any kitchen. Great raw in salads or caramelized for added depth.",
+    "image": "https://images.unsplash.com/photo-1518977676601-b53f82aba655?w=400"
+  }
+]
